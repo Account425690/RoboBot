@@ -1,0 +1,172 @@
+
+.header{
+    background-image: url(img/apexbackground.jpg) ;
+    height: 85vh;
+    background-position: right;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-left: 30px;
+}
+
+.navigation{
+    height: 80px;
+}
+
+.links{
+    float: right;
+}
+
+.intro{
+    color: #4e4e4e ;
+    font-size: 110px;
+    padding-top: 50px;
+}
+
+.slogan{
+    color: grey;
+    font-size: 70px;
+    padding-top: 60px;
+}
+
+
+.join{
+    text-decoration: none;
+    color: black;
+    background-color: turquoise;
+    display: inline-block;
+    font-size: 30px;
+    padding: 30px 60px;
+    margin-top: 60px;
+}
+
+
+.nav-link{
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: none;
+    display: inline-block;
+    margin-right: auto;
+    padding-left: 10px;
+    line-height: 80px;
+}
+
+.logo{ 
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    text-decoration: none;
+    line-height: 80px;
+}
+
+.icon-groups{
+  width: 24.7%;
+  display: inline-block;
+  margin-top: 70px;
+  margin-bottom: 30px;
+  vertical-align: top;
+  text-align: center;
+}
+
+.icons{
+    height: 100px;
+}
+
+.icon-info{
+    color:#77d8fe;
+    margin-top: 20px;
+    font-size: 20px;
+}
+
+
+.about{
+    box-shadow: 0px 0px 50px black;
+    padding: 10px;
+   
+}
+
+.about-text{
+    width: 49.2%;
+    display: inline-block;
+    vertical-align: top;
+    padding-left: 15px;
+}
+
+.subtitles{
+    text-align: center;
+    color:#77d8fe;
+    margin-bottom: 45px;
+    margin-top: 20px;
+    font-size: 35px;
+}
+
+.about-images{
+    width: 49.2%;
+    height: 36  0px;
+}
+
+.game-titles{
+    color: #82ffcc;
+    margin-bottom: 15px;
+    font-size: 25px;
+    margin-top: 15px;
+}
+
+.underlines{
+    width: 170px;
+    height: 5px;
+    background-color: #82ffcc;
+    border: none;
+    outline: none ;
+    margin-bottom: 15px;
+    margin-top: 15px;
+}
+
+.descriptions{
+    color: white;
+    font-size: 18px;
+}
+
+.frequent{
+    text-align: center;
+    color: grey;
+}
+
+.end{
+    box-shadow: 0px 0px 50px black;
+    padding: 40px;
+}
+
+.end-hr{
+    width: 370px;
+    height: 2px;
+    background-color: white;
+    border: none;
+    outline: none ;
+    margin-bottom: 30px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.color{
+    background-color: #77d9ff;
+    padding-left: 20px;
+    padding-right: 20px;
+    height: 180px;
+    padding-top: 55px;
+}
+
+.click{
+    font-size: 70px;
+    color: white;
+    margin-left: 120px;
+}
+
+.sign-up{
+    float: right;
+    color: white;
+    padding: 20px 60px;
+    font-size: 25px;
+    text-decoration: none;
+    background-color: black;
+}
